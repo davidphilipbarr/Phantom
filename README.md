@@ -1,8 +1,6 @@
 # Phantom
 
-| Front | Back |
-| :---: | :---: |
-| ![front](/images/front.png) | ![back](/images/back.png) |
+![](/images/phantom.png)
 
 <span>
   <a href="https://discord.gg/czXcTXbsgU">
@@ -10,6 +8,12 @@
   </a>
   <img src="https://img.shields.io/github/last-commit/davidphilipbarr/Phantom">
 </span>
+
+## PCBs
+
+| Front | Back |
+| :---: | :---: |
+| ![front](/images/front.png) | ![back](/images/back.png) |
 
 ## What is Phantom?
 
