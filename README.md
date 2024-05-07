@@ -30,5 +30,6 @@ To build and use a Phantom you will need:
 ...
 
 ## Firmware
-
+There is some actual working firmware here: 
+https://github.com/jonnyirwin/phantom_qmk_config
 ...
